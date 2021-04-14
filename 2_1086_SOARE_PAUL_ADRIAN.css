@@ -1,0 +1,17 @@
+body {
+	background-image: url("https://www.xmple.com/wallpaper/linear-blue-highlight-gradient-white-1920x1080-c2-add8e6-fffaf0-l-67-a-150-f-21.svg");
+	background-color: #caf3ff;
+	background-repeat: no-repeat;
+
+	background-size: cover;
+}
+ul {
+	list-style: decimal;
+}
+
+.list-element-name {
+	font-size: 1.4em;
+}
+p {
+	font-size: 0.9em;
+}
