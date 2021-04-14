@@ -1,5 +1,8 @@
 # player-video
 
+![image](https://user-images.githubusercontent.com/72071682/114767292-1dfdc380-9d70-11eb-8e8f-3dc71766ba32.png)
+
+
 * Posibilitate navigare prin playlist; trecere automată la filmul următor.
 * Adăugarea de noi filme prin drag and drop.
 * Modificare ordine filme în playlist; ștergere filme din playlist.
@@ -8,4 +11,3 @@
 * Implementare funcționalitate de preview cadru (atunci când cursorul este deasupra progress bar-ului).
 * Stocare setări (ex: nivel volum, poziție curentă în cadrul playlist-ului) cu ajutorul Web Storage API.
 
-![image](https://user-images.githubusercontent.com/72071682/114767292-1dfdc380-9d70-11eb-8e8f-3dc71766ba32.png)
